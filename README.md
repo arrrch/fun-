@@ -1,2 +1,2 @@
-# fun-
-fun place
+## Fun Things 鬮
+- fun things that that that...
